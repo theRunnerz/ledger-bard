@@ -1,0 +1,5 @@
+streamlit
+google-cloud-aiplatform
+google-cloud-texttospeech
+requests
+google-auth
